@@ -1,4 +1,4 @@
-
+[
     {
         "nomUsuario":"AndyBlu",
         "contraseña":"12345",
@@ -21,3 +21,4 @@
         "img":"https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/facebook-ceo-mark-zuckerberg-speaks-about-the-new-facebook-news-photo-1623399471.jpg?resize=640:*",
         "opciones":["Ver Publicaciones","Actividad reciente","Notificaciones"]
     }
+]
