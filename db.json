@@ -1,26 +1,26 @@
 {
-    "Usuario":[
-    {
-        "nomUsuario":"AndyBlu",
-        "contraseña":"12345",
-        "nombres":"Andy Ninasunta",
-        "img":"https://i0.wp.com/www.pngarea.com/pngm/117/7529705_blood-pool-png-caras-de-hombre-animada-transparent.png",
-        "opciones":["Ver Publicaciones","Actividad reciente","Notificaciones","Administrar Publicaciones","Estadística de visitas"]
-    },
+    "Usuarios":[
+        {
+            "nomUsuario":"AndyBlu",
+            "contraseña":"12345",
+            "nombres":"Andy Ninasunta",
+            "img":"https://i0.wp.com/www.pngarea.com/pngm/117/7529705_blood-pool-png-caras-de-hombre-animada-transparent.png",
+            "opciones":["Ver Publicaciones","Actividad reciente","Notificaciones","Administrar Publicaciones","Estadística de visitas"]
+        },
 
-    {
-        "nomUsuario":"JuanPlus",
-        "contraseña":"12345",
-        "nombres":"Juan Ruiz",
-        "img":"https://image.freepik.com/foto-gratis/concepto-emociones-personas-foto-cabeza-hombre-atractivo-feliz-riendo-sonriendo-expresa-regocijo-fondo-blanco_1258-34795.jpg",
-        "opciones":["Ver Publicaciones","Actividad reciente","Notificaciones","Administrar Publicaciones","Estadística de visitas"]
-    },
-    {
-        "nomUsuario":"Anonimo95",
-        "contraseña":"12345",
-        "nombres":"Mark Zuckerberg",
-        "img":"https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/facebook-ceo-mark-zuckerberg-speaks-about-the-new-facebook-news-photo-1623399471.jpg?resize=640:*",
-        "opciones":["Ver Publicaciones","Actividad reciente","Notificaciones"]
-    }
+        {
+            "nomUsuario":"JuanPlus",
+            "contraseña":"12345",
+            "nombres":"Juan Ruiz",
+            "img":"https://image.freepik.com/foto-gratis/concepto-emociones-personas-foto-cabeza-hombre-atractivo-feliz-riendo-sonriendo-expresa-regocijo-fondo-blanco_1258-34795.jpg",
+            "opciones":["Ver Publicaciones","Actividad reciente","Notificaciones","Administrar Publicaciones","Estadística de visitas"]
+        },
+        {
+            "nomUsuario":"Anonimo95",
+            "contraseña":"12345",
+            "nombres":"Mark Zuckerberg",
+            "img":"https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/facebook-ceo-mark-zuckerberg-speaks-about-the-new-facebook-news-photo-1623399471.jpg?resize=640:*",
+            "opciones":["Ver Publicaciones","Actividad reciente","Notificaciones"]
+        }
     ]
 }
